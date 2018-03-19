@@ -1,0 +1,32 @@
+error:
+    scheme: ftp
+    host: amenothes-port-55.nfrance.com
+    port: 21
+    user: truc
+    pass: truc
+    check: true
+    path:
+        remote: www/
+
+crepsreims:
+    scheme: ftp
+    host: amenothes-port-55.nfrance.com
+    port: 21
+    user: crepsreims
+    pass: BacEC1aZlZ7g
+    check: true
+    path:
+        remote: www/
+
+crepsraza:
+    scheme: ftp
+    host: crepsnancyformation.com
+    port: 21
+    user: raza@raza.crepsnancyformation.com
+    pass: .=oEiplDA)Bb
+    check: true
+    path:
+        remote: raza.crepsnancyformation.com/
+
+
+

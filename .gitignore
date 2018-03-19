@@ -1,0 +1,7 @@
+imagesUp/*
+userfiles/*
+dploy.yaml
+*/cache/**
+.idea/
+*DS_Store
+._*
